@@ -1,2 +1,3 @@
 # Quant-Finance
-Personal portfolio of tools, dashboards, projects, theories, &amp; ideas under the umbrella that is Quantitative Finance. 
+
+This repository contains a curated collection of models, research workflows and analytical tools developed across valuation, forecasting, risk analysis, and portfolio monitoring. The work showcased here reflects the technical and analytical depth required for modern investment valuation, supporting pre-deal due dilligence, ongoing portfolio oversight and trading/valuation strategies. 
