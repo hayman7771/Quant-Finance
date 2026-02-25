@@ -1,4 +1,4 @@
-# Cameron Hayman — Quant Finance Portfolio
+# Cameron Hayman: Quant Finance Portfolio
 
 Applied quantitative finance, financial modeling, risk analytics, forecasting, and trading workflow projects built across **Python, R, Jupyter, and Excel**.
 
@@ -13,7 +13,7 @@ This repository is part of a broader 5-repository portfolio system covering:
 
 ## About Me
 
-I’m a quantitative and analytics-focused builder with a background spanning **mathematics, accounting, and data science**, with hands-on work across:
+Iâ€™m a quantitative and analytics-focused builder with a background spanning **mathematics, accounting, and data science**, with hands-on work across:
 
 - valuation and financial modeling  
 - forecasting and risk analytics  
