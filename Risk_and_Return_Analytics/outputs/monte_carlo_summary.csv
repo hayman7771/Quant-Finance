@@ -1,0 +1,2 @@
+initial_portfolio_value,n_sims,horizon_years,terminal_mean,terminal_median,terminal_std,terminal_p05,terminal_p25,terminal_p75,terminal_p95,prob_terminal_below_initial,prob_terminal_below_threshold,mean_terminal_return,median_terminal_return
+100000.0,1000.0,3.0,134297.71370640272,128012.73328796911,43058.220985062384,73040.89136666486,104545.47771040029,159934.01883563065,210135.7223321923,0.218,0.125,0.3429771370640275,0.28012733287969105
